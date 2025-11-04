@@ -9,9 +9,9 @@ for _ in range(t):
     y -= 1
     k = x # 가 되어야 한다.
     while k < m*n: # k 가 마지막의 수보다 크다면 그건 거짓.
-        if k%n == y:
+        if k%n == y: # 나눈 나머지가 원하는 수라면.
             print(k+1)
             break
         k += m
     else:
-        print(-1)
+        print(-1) # 이건 정답이 아님.
