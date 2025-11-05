@@ -17,12 +17,12 @@
 # (9-1+1)*1
 # (99-10+1)*2
 # (999-100+1)*3
-n = 100_000_000
+n = int(input())
 ans = 0
 number = 1 # 1 <= n
 length = 1
 while number <= n: # 지정된 수를 넘으면 안됨.
-    breakpoint()
+    # breakpoint()
     # 10-1 = 9
     # 100-1 = 99
     # 1000-1 = 9999
