@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AMD\\Documents\\study\\algorithmStudy\\baekjoon\\20251202\\27590\\solved\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41FA6669-7C07-4E5D-B40F-4D199980AA9C}|solved\\solved.vcxproj|C:\\Users\\AMD\\Documents\\study\\algorithmStudy\\baekjoon\\20251202\\27590\\solved\\solved\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41FA6669-7C07-4E5D-B40F-4D199980AA9C}|solved\\solved.vcxproj|solutionrelative:solved\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\AMD\\Documents\\study\\algorithmStudy\\baekjoon\\20251202\\27590\\solved\\solved\\main.c",
+              "RelativeDocumentMoniker": "solved\\main.c",
+              "ToolTip": "C:\\Users\\AMD\\Documents\\study\\algorithmStudy\\baekjoon\\20251202\\27590\\solved\\solved\\main.c",
+              "RelativeToolTip": "solved\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-02T12:27:18.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
